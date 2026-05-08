@@ -1,6 +1,6 @@
 # 👻 Ghost-Recruiter: AI-Powered Autonomous Resume Screening
 
-![Banner](https://ваша-ссылка-на-скриншот-воркфлоу.png)
+![Banner](work.png)
 
 > **Architecting the future of recruitment: From 8 hours of manual grind to 15 minutes of strategic decision-making.**
 
